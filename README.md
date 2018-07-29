@@ -3,7 +3,9 @@ fix "missing Maintainer" &amp; "missing description" errors on cydia ios 11.3
 
 # Be sure you have 
   1- zip
+  
   2- gawk
+  
 Packages can be found in Cydia
 
 # Usage
