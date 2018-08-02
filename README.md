@@ -1,5 +1,8 @@
+
+ # PLEASE READ ME " WHILE THIS SCRIPT EDIT STATUS FILE SO BY RUNNING IT YOUR TAKING FULL RESPONSIBIlITY ON WHAT HAPPEN NEXT"
+
 # missin-you
-fix "missing Maintainer" &amp; "missing description" errors on cydia ios 11.3
+fix "missing Maintainer" &amp; "missing description" errors on cydia ios 11.3+
 
 # Be sure you have 
   1- zip
